@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ML for Banking Systems
+subtitle: 
 
 profile:
   align: right
