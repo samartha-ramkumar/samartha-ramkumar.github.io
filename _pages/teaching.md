@@ -1,3 +1,4 @@
+<!--
 ---
 layout: page
 permalink: /teaching/
@@ -6,7 +7,10 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 nav_order: 6
 ---
+-->
 
-Mentored underprivileged students of 7th and 8th grade from 2017-2019      
-`Rotaract - iTeach`         
-`Education For All (EFA)`      
+
+Mentored underprivileged students of 7th / 8th grade from 2017-2019      
+
+`Rotaract - iTeach` - Kamala Nehru School `&` Govt Model School        
+`Education For All (EFA)`  Govt High School    
