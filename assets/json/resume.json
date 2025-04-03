@@ -1,36 +1,35 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Samartha Ramkumar",
+    "label": "Software Engineer - Data/ML",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "samartha.arks@gmail.com",
+    "url": "https://samartha-ramkumar.github.io",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      # "address": "",
+      "postalCode": "75039",
+      "city": "Dallas",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "Samartha-Ramkumar",
+        "url": "https://www.linkedin.com/in/samartha-ramkumar/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Citibank",
+      "position": "Software Engineer - Data/ML",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2023-11-01",
+      "endDate": "2025-03-01",
+      "summary": "",
+      "highlights": ["IVR", "Agent Assist"]
     }
   ],
   "volunteer": [
@@ -47,15 +46,26 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Washington, Seattle",
+      "location": "Seattle, Washington",
+      "url": "https://www.washington.edu/",
+      "area": "ME - Data Science/ML",
+      "studyType": "Masters",
+      "startDate": "2021-09-01",
+      "endDate": "2023-06-01",
+      "score": "3.9",
+      "courses": ["ML"]
+    },
+    {
+      "institution": "BMS College of Engineering",
+      "location": "Bengaluru, India",
+      "url": "https://www.bmsce.ac.in/",
+      "area": "ME - ML/Robotics",
+      "studyType": "Bachelors",
+      "startDate": "2016-08-01",
+      "endDate": "2020-09-01",
+      "score": "9.1",
+      "courses": ["ML"]
     }
   ],
   "awards": [
@@ -89,27 +99,7 @@
       "url": "https://example.com",
       "icon": "fa-solid fa-envelope"
     },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
+
   ],
   "publications": [
     {
@@ -151,13 +141,18 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Kannada",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Moderate",
       "icon": ""
     }
   ],
@@ -179,11 +174,6 @@
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
