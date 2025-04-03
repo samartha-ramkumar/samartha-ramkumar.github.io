@@ -7,6 +7,7 @@
     "url": "https://samartha-ramkumar.github.io",
     "summary": "",
     "location": {
+      "address":"Irving"
       "postalCode": "75039",
       "city": "Dallas",
       "countryCode": "US",
@@ -184,5 +185,5 @@
       "summary": "Organized and volunteered to educate under privileged 7th/8th grade students",
       "highlights": ["Physics and Mathematics"]
     }
-  ],
+  ]
 }
