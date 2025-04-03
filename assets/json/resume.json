@@ -7,7 +7,6 @@
     "url": "https://samartha-ramkumar.github.io",
     "summary": "",
     "location": {
-      # "address": "",
       "postalCode": "75039",
       "city": "Dallas",
       "countryCode": "US",
@@ -26,22 +25,10 @@
       "name": "Citibank",
       "position": "Software Engineer - Data/ML",
       "url": "https://example.com",
-      "startDate": "2023-11-01",
-      "endDate": "2025-03-01",
+      "startDate": "2023-11",
+      "endDate": "2025-03",
       "summary": "",
       "highlights": ["IVR", "Agent Assist"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
@@ -186,5 +173,16 @@
       "endDate": "2018-01-01",
       "url": "https://example.com"
     }
-  ]
+  ],
+  "volunteer": [
+    {
+      "organization": "Rotaract",
+      "location": "Bengaluru, India",
+      "position": "Organizer",
+      "startDate": "2017-08",
+      "endDate": "2019-06",
+      "summary": "Organized and volunteered to educate under privileged 7th/8th grade students",
+      "highlights": ["Physics and Mathematics"]
+    }
+  ],
 }
