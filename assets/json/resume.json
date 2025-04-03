@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Samartha Ramkumar",
-    "label": "ML Enthusiast",
+    "label": "",
     "image": "",
     "email": "samartha.arks@gmail.com",
-    "phone": "(912) 123-4567",
+    "phone": "",
     "url": "https://samartha-ramkumar.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "I am a passionate engineer trying to make my mark ",
     "location": {
       "address": "1234 ",
       "postalCode": "Irving 75039",
@@ -29,20 +29,20 @@
       "url": "",
       "startDate": "2023-11-01",
       "endDate": "2025-03-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["IVR"]
+      "summary": " I work on IVR and Agent Assist platforms to improve the customer experience and the efficiency of the agents in banking systems ",
+      "highlights": ["IVR", "Agent Assist"]
     }
   ],
   "volunteer": [
     {
       "organization": "Rotaract",
       "location": "BMSCE, Bengaluru, India",
-      "position": "Lead Organizer",
+      "position": "Organizer",
       "url": "https://example.com",
       "startDate": "2017-08-01",
       "endDate": "2019-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "summary": "Organized and voluteered in Vigilance Drives, Plantation drives, Education drives, Swacch Bharat",
+      "highlights": ["iTeach", "Education For All"]
     }
   ],
   "education": [
@@ -50,7 +50,7 @@
       "institution": "University of Washington, Seattle",
       "location": "Seattle, Washington",
       "url": "https://www.washington.edu/",
-      "area": "Research",
+      "area": "CV & NLP",
       "studyType": "Masters",
       "startDate": "2021-09-01",
       "endDate": "2023-06-01",
@@ -151,13 +151,13 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Native",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Kannada",
+      "fluency": "Native",
       "icon": ""
     }
   ],
