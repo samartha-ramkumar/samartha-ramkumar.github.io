@@ -36,7 +36,7 @@
   "volunteer": [
     {
       "organization": "Rotaract",
-      "location": "BMSCE, Bengaluru, India",
+      "location": "Bengaluru, India",
       "position": "Organizer",
       "url": "https://example.com",
       "startDate": "2017-08-01",
@@ -50,12 +50,12 @@
       "institution": "University of Washington, Seattle",
       "location": "Seattle, Washington",
       "url": "https://www.washington.edu/",
-      "area": "CV & NLP",
+      "area": "",
       "studyType": "Masters",
       "startDate": "2021-09-01",
       "endDate": "2023-06-01",
       "score": "3.9",
-      "courses": ["ML"]
+      "courses": ["CV", "NLP"]
     }
   ],
   "awards": [
@@ -136,16 +136,14 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Machine Learning",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Computer Vision",
+        "Natural Language Processing",
+        "Multimodal Learning",
+        "Relational, noSQL, graph DBs"
       ]
     }
   ],
@@ -163,15 +161,13 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Machine Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Computer Vision",
+        "Natural Language Processing",
+        "Multimodal Learning",
+        "Relational, noSQL, graph DBs"
       ]
     }
   ],
