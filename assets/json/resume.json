@@ -174,18 +174,6 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Machine Learning",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Computer Vision",
-        "Natural Language Processing",
-        "Multimodal Learning",
-        "Relational, noSQL, graph DBs"
-      ]
-    }
-  ],
   "references": [
     {
       "name": "Professor John Doe",
