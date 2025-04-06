@@ -29,8 +29,7 @@
       "url": "https://www.citi.com/",
       "startDate": "2023-11-01",
       "endDate": "2025-03-01",
-      "summary": "IVR and Agent Assist platforms to improve the customer experience and the efficiency of the agents in banking systems ",
-      "highlights": [""]
+      "summary": "IVR and Agent Assist platforms to improve the customer experience and the efficiency of the agents in banking systems "
     },
     {
       "name": "Sportsbox ai Inc",
@@ -38,8 +37,7 @@
       "url": "https://www.sportsbox.ai/?srsltid=AfmBOoqcmCJWs00j7dAbGfUxG7AKA8A4JA4-KRGZcsXlw23EbvKBVlLs",
       "startDate": "2022-06-01",
       "endDate": "2022-09-01",
-      "summary": "2D and 3D models using over 30 key points on the body, club and ball, detecting joints and body segments in motion from a single video without any markers  ",
-      "highlights": [""]
+      "summary": "2D and 3D models using over 30 key points on the body, club and ball, detecting joints and body segments in motion from a single video without any markers  "
     },
     {
       "name": "Deloitte",
@@ -47,8 +45,7 @@
       "url": "https://www.deloitte.com/in/en.html",
       "startDate": "2020-09-01",
       "endDate": "2021-09-01",
-      "summary": "ML pipelines for churn prediction and sales forecasting for millions of outlets across 7 different countries.",
-      "highlights": [""]
+      "summary": "ML pipelines for churn prediction and sales forecasting for millions of outlets across 7 different countries."
     }
   ],
   "volunteer": [
@@ -68,12 +65,12 @@
       "institution": "University of Washington, Seattle",
       "location": "Seattle, Washington",
       "url": "https://www.washington.edu/",
-      "area": "CV & NLP",
+      "area": "",
       "studyType": "Masters",
       "startDate": "2021-09-01",
       "endDate": "2023-06-01",
       "score": "3.9",
-      "courses": [""]
+      "courses": ["ML"]
     }
   ],
   "awards": [
@@ -90,7 +87,7 @@
       "name": "Machine Learning",
       "date": "2018-01-01",
       "issuer": "Stanford University",
-      "url": "https://example.com",
+      "url": "https://www.coursera.org/",
       "icon": "fa-solid fa-location-dot"
     },
     {
