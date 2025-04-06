@@ -40,6 +40,15 @@
       "endDate": "2022-09-01",
       "summary": "Proprietary 2D and 3D models using over 30 key points on the body, club and ball, which allows us to accurately detect comprehensive joints and body segments in motion without any markers from a single video ",
       "highlights": [" Animate 3D body motion from 6 angles - Face-on, Down-the-Line, Behind, From Target, Above and Below"]
+    },
+    {
+      "name": "Deloitte",
+      "position": "Data Analyst",
+      "url": "https://www.deloitte.com/in/en.html",
+      "startDate": "2020-09-01",
+      "endDate": "2021-09-01",
+      "summary": "ML pipelines for churn prediction and sales forecasting for millions of outlets across 7 different countries.",
+      "highlights": ["Microsoft Azure", "SQL"]
     }
   ],
   "volunteer": [
