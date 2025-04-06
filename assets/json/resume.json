@@ -8,8 +8,8 @@
     "url": "https://samartha-ramkumar.github.io/",
     "summary": "I am a passionate engineer trying to make my mark ",
     "location": {
-      "address": "1234 ",
-      "postalCode": "Irving 75039",
+      "address": "Irving",
+      "postalCode": "75039",
       "city": "Dallas",
       "countryCode": "US",
       "region": "Texas"
@@ -26,11 +26,20 @@
     {
       "name": "Citibank",
       "position": "Software Engineer - Data/ML",
-      "url": "",
+      "url": "https://www.citi.com/",
       "startDate": "2023-11-01",
       "endDate": "2025-03-01",
       "summary": " I work on IVR and Agent Assist platforms to improve the customer experience and the efficiency of the agents in banking systems ",
       "highlights": ["IVR", "Agent Assist"]
+    },
+    {
+      "name": "Sportsbox ai Inc",
+      "position": "Machine Learning Engineer",
+      "url": "https://www.sportsbox.ai/?srsltid=AfmBOoqcmCJWs00j7dAbGfUxG7AKA8A4JA4-KRGZcsXlw23EbvKBVlLs",
+      "startDate": "2022-06-01",
+      "endDate": "2022-09-01",
+      "summary": "Proprietary 2D and 3D models using over 30 key points on the body, club and ball, which allows us to accurately detect comprehensive joints and body segments in motion without any markers from a single video ",
+      "highlights": [" Animate 3D body motion from 6 angles - Face-on, Down-the-Line, Behind, From Target, Above and Below"]
     }
   ],
   "volunteer": [
