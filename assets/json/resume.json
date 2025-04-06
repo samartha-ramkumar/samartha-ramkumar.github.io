@@ -47,7 +47,7 @@
       "url": "https://www.deloitte.com/in/en.html",
       "startDate": "2020-09-01",
       "endDate": "2021-09-01",
-      "summary": "ML pipelines for churn prediction and sales forecasting",
+      "summary": "ML pipelines for churn prediction and sales forecasting for millions of outlets across 7 different countries.",
       "highlights": [""]
     }
   ],
@@ -68,12 +68,12 @@
       "institution": "University of Washington, Seattle",
       "location": "Seattle, Washington",
       "url": "https://www.washington.edu/",
-      "area": "",
+      "area": "CV & NLP",
       "studyType": "Masters",
       "startDate": "2021-09-01",
       "endDate": "2023-06-01",
       "score": "3.9",
-      "courses": ["CV", "NLP"]
+      "courses": [""]
     }
   ],
   "awards": [
@@ -82,7 +82,7 @@
       "date": "1921-11-01",
       "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": ""
     }
   ],
   "certificates": [
